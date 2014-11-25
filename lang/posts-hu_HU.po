@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post-counter\n"
+"POT-Creation-Date: 2013-03-09 15:46+0100\n"
+"PO-Revision-Date: 2013-03-09 15:49+0100\n"
+"Last-Translator: Tomek <tomek.maestro@gmail.com>\n"
+"Language-Team: Tomek <tomek.maestro@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp\\wp-content\\plugins\\posts\n"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\posts/posts.php:21
+msgid "Writes in the slidebar the numbers of your posts"
+msgstr "Kiírja az oldalsávban a bejegyzéseid számát"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\posts/posts.php:23
+#: C:\xampp\htdocs\wp\wp-content\plugins\posts/posts.php:43
+msgid "Post-counter"
+msgstr "Bejegyzésszámláló"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\posts/posts.php:32
+msgid "Numbers of posts:"
+msgstr "Publikált bejegyzéseim száma:"

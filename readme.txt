@@ -2,8 +2,8 @@
 Contributors: tomek00
 Tags: post, posts, count, counter, widget
 Donate link: http://wp-learning.net/blog/felajanl
-Requires at least: 3.0
-Tested up to: 3.5.1
+Requires at least: 3.4
+Tested up to: 4.1.1
 Stable tag: trunk
 
 Writes in the slidebar the numbers of your posts
